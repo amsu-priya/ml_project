@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 
 #assining dataset to variable
-heart_data = pd.read_csv(r'C:\Users\User\Desktop\Priya\project\archive\heart.csv')
+heart_data = pd.read_csv(r'heart.csv')
 heart_data.hist()
 Target=pd.DataFrame(heart_data.target,columns=['target'])
 
