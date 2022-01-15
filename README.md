@@ -10,4 +10,4 @@ Step 03 --> Install required packages such as numpy, pandas, sklearn and matplot
 
 Step 04 --> Create a new notebook under same file path and follow the code
 
-Step 05 --> Save and run the code and verify the accuracy.
+Step 05 --> Save and run the code.
