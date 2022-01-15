@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-#assining dataset to variable
+#assigning dataset to variable
 heart_data = pd.read_csv(r'heart.csv')
 heart_data.hist()
 Target=pd.DataFrame(heart_data.target,columns=['target'])
